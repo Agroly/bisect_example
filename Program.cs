@@ -6,5 +6,6 @@ internal class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Test");
         Console.WriteLine()
+        Console.WriteLine("Hello, World!");
     }
 }
